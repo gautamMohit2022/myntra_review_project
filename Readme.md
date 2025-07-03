@@ -85,8 +85,11 @@ Database_connect-A package used to simplify the connection to mongodb.
 Command-python -m streamlit run "app.py"
 
 ![Screenshot 2025-07-03 142719](https://github.com/user-attachments/assets/cdb988fe-055c-4231-a7f5-942efbb7cc3a)
-![Screenshot 2025-07-03 142850](https://github.com/user-attachments/assets/063f1651-c9ef-4cf4-bf04-3002f18fa52c)
+
+![Screenshot 2025-07-03 142741](https://github.com/user-attachments/assets/03b3f900-3d56-472b-b7f7-03b67219e7c9)
+
 ![Screenshot 2025-07-03 142810](https://github.com/user-attachments/assets/f9ce0b4b-6877-4b0e-a36a-380bd6ff0228)
+
 ![Screenshot 2025-07-03 142850](https://github.com/user-attachments/assets/144ae2b6-81b6-40c8-9939-aeeabcec5b4f)
 
 
